@@ -23,7 +23,7 @@
 - 🎓 **Education**: 运城学院 · 计算机应用技术专业（本科）
 - 💼 **Experience**: 掌握Vue、SpringBoot、FastAPI全栈开发，具备独立从零搭建项目的实战经验
 - 🌱 **Currently Learning**: AI Agent，多模态应用开发，LLM应用全链路开发与调优
-- 📫 **Reach me**: [Email]3084824007@qq.com | [GitHub](https://github.com/zhansan379)
+- 📫 **Reach me**: 邮箱 3084824007@qq.com | [csdn](https://blog.csdn.net/m0_73980980?type=blog) 
 
 <br clear="right">
 
