@@ -16,16 +16,16 @@
   </a>
 </p>
 
-<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhansan379&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=css,html" />
-
 ## 👨‍💻 About Me
+
+<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhansan379&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=css,html" />
 
 - 🎓 **Education**: 运城学院 · 计算机应用技术专业（本科）
 - 💼 **Experience**: 掌握Vue、SpringBoot、FastAPI全栈开发，具备独立从零搭建项目的实战经验
-- 🌱 **Currently Learning**: AI Agent ,多模态应用开发 ,LLM应用全链路开发与调优
+- 🌱 **Currently Learning**: AI Agent，多模态应用开发，LLM应用全链路开发与调优
 - 📫 **Reach me**: [Email](mailto:3084824007@qq.com) | [GitHub](https://github.com/zhansan379)
 
-<br clear="both">
+<br clear="right">
 
 ---
 
@@ -60,10 +60,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=zhansan379&hide_title=false&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=zhansan379&hide_border=true&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 800px;">
+  <tr>
+    <td align="center" style="padding: 0; width: 50%;">
+      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=zhansan379&hide_title=false&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&include_all_commits=true&count_private=true" />
+    </td>
+    <td align="center" style="padding: 0; width: 50%;">
+      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=zhansan379&hide_border=true&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
+    </td>
+  </tr>
+</table>
 
 ---
 
