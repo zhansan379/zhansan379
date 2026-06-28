@@ -23,10 +23,8 @@
 - 🎓 **Education**: 运城学院 · 计算机应用技术专业（本科）
 - 💼 **Experience**: 掌握Vue、SpringBoot、FastAPI全栈开发，具备独立从零搭建项目的实战经验
 - 🌱 **Currently Learning**: AI Agent，多模态应用开发，LLM应用全链路开发与调优
-- 📫 **Reach me**: 邮箱 3084824007@qq.com | [csdn](https://blog.csdn.net/m0_73980980?type=blog) 
-
-<br clear="right">
-
+- 📫 **Reach me**: 邮箱 3084824007@qq.com
+-  **blog**:  | [csdn](https://blog.csdn.net/m0_73980980?type=blog) 
 <!-- feed start -->
 - Jun 28 - [07 Context Compact](https://blog.csdn.net/m0_73980980/article/details/162396499)
 - Jun 28 - [06 claude code的harness工程](https://blog.csdn.net/m0_73980980/article/details/162381383)
@@ -34,6 +32,8 @@
 - Jun 01 - [01 python的项目管理](https://blog.csdn.net/m0_73980980/article/details/161588576)
 - Jun 01 - [00 Agentic RAG 综述](https://blog.csdn.net/m0_73980980/article/details/161586330)
 <!-- feed end -->
+
+<br clear="right">
 
 ---
 
