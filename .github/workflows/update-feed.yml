@@ -1,0 +1,28 @@
+name: Update RSS Feed in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 时间 0 点自动运行
+  workflow_dispatch:     # 允许手动触发工作流
+
+permissions:
+  contents: write        # 授予工作流写入仓库的权限
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with RSS feed
+        uses: sarisia/actions-readme-feed@v1
+        id: feed  # 为后续步骤获取输出状态
+        with:
+          url: 'https://blog.csdn.net/m0_73980980/rss/list'  # 替换为你的 RSS 地址
+          file: 'README.md'                              # 要更新的目标文件
+
+      - name: Commit and push changes
+        if: ${{ steps.feed.outputs.changed == 'true' }} # 仅当有变化时才提交
+        uses: sarisia/actions-commit@master             # 推荐使用此 Action 简化提交
+        # 或者，你也可以使用标准的 git 命令手动提交[reference:6]
