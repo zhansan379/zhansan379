@@ -2,11 +2,11 @@ name: Update RSS Feed in README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 UTC 时间 0 点自动运行
-  workflow_dispatch:     # 允许手动触发工作流
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write        # 授予工作流写入仓库的权限
+  contents: write
 
 jobs:
   update-readme:
@@ -17,12 +17,22 @@ jobs:
 
       - name: Update README with RSS feed
         uses: sarisia/actions-readme-feed@v1
-        id: feed  # 为后续步骤获取输出状态
+        id: feed
         with:
-          url: 'https://blog.csdn.net/m0_73980980/rss/list'  # 替换为你的 RSS 地址
-          file: 'README.md'                              # 要更新的目标文件
+          url: 'https://blog.csdn.net/m0_73980980/rss/list'
+          file: 'README.md'
 
-      - name: Commit and push changes
-        if: ${{ steps.feed.outputs.changed == 'true' }} # 仅当有变化时才提交
-        uses: sarisia/actions-commit@master             # 推荐使用此 Action 简化提交
-        # 或者，你也可以使用标准的 git 命令手动提交[reference:6]
+      # 调试：打印 changed 的值
+      - name: Debug changed flag
+        run: |
+          echo "changed = ${{ steps.feed.outputs.changed }}"
+          echo "content = ${{ steps.feed.outputs.content }}"   # 如果支持该输出
+
+      # 强制提交（忽略 changed 条件，直接提交，确保内容被写入）
+      - name: Commit and push changes (force)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update RSS feed (force)" || echo "No changes to commit"
+          git push
