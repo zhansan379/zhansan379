@@ -24,7 +24,9 @@
 - 💼 **Experience**: 掌握Vue、SpringBoot、FastAPI全栈开发，具备独立从零搭建项目的实战经验
 - 🌱 **Currently Learning**: AI Agent，多模态应用开发，LLM应用全链路开发与调优
 - 📫 **Reach me**: 邮箱 3084824007@qq.com
--  **blog**:  | [csdn](https://blog.csdn.net/m0_73980980?type=blog) 
+- [![CSDN](https://img.shields.io/badge/-CSDN-red?style=flat-square&logo=csdn)](https://blog.csdn.net/m0_73980980?type=blog)
+ **blog**:  | [csdn](https://blog.csdn.net/m0_73980980?type=blog) 
+### 📝 最新csdn博客
 <!-- feed start -->
 - Jun 28 - [07 Context Compact](https://blog.csdn.net/m0_73980980/article/details/162396499)
 - Jun 28 - [06 claude code的harness工程](https://blog.csdn.net/m0_73980980/article/details/162381383)
