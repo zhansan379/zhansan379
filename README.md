@@ -30,11 +30,11 @@
 
 ### 📝 最新csdn博客
 <!-- feed start -->
+- Jun 29 - [08 一文讲清楚memory，claude.md与skill](https://blog.csdn.net/m0_73980980/article/details/162405465)
 - Jun 28 - [07 Context Compact](https://blog.csdn.net/m0_73980980/article/details/162396499)
 - Jun 28 - [06 claude code的harness工程](https://blog.csdn.net/m0_73980980/article/details/162381383)
 - Jun 17 - [01 claude code agent loop工程化分析](https://blog.csdn.net/m0_73980980/article/details/162056288)
 - Jun 01 - [01 python的项目管理](https://blog.csdn.net/m0_73980980/article/details/161588576)
-- Jun 01 - [00 Agentic RAG 综述](https://blog.csdn.net/m0_73980980/article/details/161586330)
 <!-- feed end -->
 
 <br clear="right">
