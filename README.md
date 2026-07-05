@@ -30,11 +30,11 @@
 
 ### 📝 最新csdn博客
 <!-- feed start -->
+- Jul 05 - [02 硅基流动实测embedding与rerank模型对比](https://blog.csdn.net/m0_73980980/article/details/162596514)
+- Jul 04 - [01 双编码器与交叉编码器](https://blog.csdn.net/m0_73980980/article/details/162587066)
 - Jul 03 - [01 git stash 与git worktree对比](https://blog.csdn.net/m0_73980980/article/details/162539362)
 - Jun 29 - [08 一文讲清楚memory，claude.md与skill](https://blog.csdn.net/m0_73980980/article/details/162405465)
 - Jun 28 - [07 Context Compact](https://blog.csdn.net/m0_73980980/article/details/162396499)
-- Jun 28 - [06 claude code的harness工程](https://blog.csdn.net/m0_73980980/article/details/162381383)
-- Jun 17 - [01 claude code agent loop工程化分析](https://blog.csdn.net/m0_73980980/article/details/162056288)
 <!-- feed end -->
 
 <br clear="right">
