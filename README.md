@@ -43,16 +43,8 @@
 
 ## 📊 GitHub Stats
 
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 800px;">
-  <tr>
-    <td align="center" style="padding: 0; width: 50%;">
-      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=zhansan379&hide_title=false&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&include_all_commits=true&count_private=true" />
-    </td>
-    <td align="center" style="padding: 0; width: 50%;">
       <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=zhansan379&hide_border=true&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
-    </td>
-  </tr>
-</table>
+
 
 ---
 ## 🚀 Tech Stack
