@@ -40,13 +40,6 @@
 <br clear="right">
 
 ---
-
-## 📊 GitHub Stats
-
-      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=zhansan379&hide_border=true&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
-
-
----
 ## 🚀 Tech Stack
 
 | Frontend | Backend | Database & Tools |
