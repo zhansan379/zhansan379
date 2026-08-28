@@ -20,7 +20,6 @@
 
 <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhansan379&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=css,html" />
 
-- 🎓 **Education**: 运城学院 · 计算机应用技术专业（本科）
 - 💼 **Experience**: 掌握Vue、SpringBoot、FastAPI全栈开发，具备独立从零搭建项目的实战经验
 - 🌱 **Currently Learning**: AI Agent，多模态应用开发，LLM应用全链路开发与调优
 - 📫 **Reach me**: 邮箱 3084824007@qq.com
