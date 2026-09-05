@@ -22,6 +22,7 @@
 
 - 💼 **Experience**: 掌握Vue、SpringBoot、FastAPI全栈开发，具备独立从零搭建项目的实战经验
 - 🌱 **Currently Learning**: AI Agent，多模态应用开发，LLM应用全链路开发与调优
+- 🌐 **Website**: 个人网站 [www.testtesttesttesttesttest.fun](http://www.testtesttesttesttesttest.fun) （欢迎来踩，正在建设中🚧）
 - 📫 **Reach me**: 邮箱 3084824007@qq.com 应届生求工作！！！
 - **blog**:  | [csdn](https://blog.csdn.net/m0_73980980?type=blog)
 
