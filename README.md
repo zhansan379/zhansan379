@@ -21,3 +21,6 @@
 - 🌱 **Currently Learning**: AI Agent，多模态应用开发，LLM应用全链路开发与调优
 - 🌐 **Website**: 个人网站 [www.testtesttesttesttesttest.fun](http://www.testtesttesttesttesttest.fun) （欢迎来踩，正在建设中🚧）
 - 📫 **Reach me**: 邮箱 3084824007@qq.com 应届生求工作！！！
+
+
+学计算机一定要有一个非常强大的心理状态，计算机的所有东西都是人做出来的，别人能想的出来的，我也一定能想的出来。在计算机里头没有任何黑魔法。计算机所有东西只是我现在还不知道而已，总有一天我会把所有细节、所有内部的东西搞明白。 
