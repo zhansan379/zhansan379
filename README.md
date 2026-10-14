@@ -11,9 +11,6 @@
   <a href="https://github.com/zhansan379?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-15+-informational?style=for-the-badge&logo=github&color=orange" alt="Repositories"/>
   </a>
-  <a href="https://github.com/zhansan379?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=zhansan379&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  </a>
 </p>
 
 ## 👨‍💻 About Me
